@@ -365,10 +365,3 @@ player3,Player 3,GREEN,0,20,false,0,false
 # JAIL_CARDS_OUT
 getOutOfJailCardsOut,1
 ```
-
-```
-
-Reformatei a partir do teu `leiame.txt`. :contentReference[oaicite:0]{index=0}  
-A versão “mais recente e estável” em **outubro de 2025** é **JDK 25.0.1 (21/out/2025)**. :contentReference[oaicite:1]{index=1}
-::contentReference[oaicite:2]{index=2}
-```
